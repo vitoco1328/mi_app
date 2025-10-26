@@ -1,4 +1,4 @@
-//Este es un metodo de prueba diferente
+//Este es un metodo de prueba diferente para probar git flow
 document.getElementById('btnClick').addEventListener('click', function () {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
