@@ -1,4 +1,5 @@
-document.getElementById('btnClick').addEventListener('click', function() {
+//Este es un metodo de prueba diferente
+document.getElementById('btnClick').addEventListener('click', function () {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
 
